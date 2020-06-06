@@ -1,0 +1,8 @@
+[02:08:54] [Server thread/INFO]: <MrWunderWaffle> -195 14 -132
+[02:09:02] [Server thread/INFO]: <MrWunderWaffle> zombie dungeon
+
+[02:49:59] [Server thread/INFO]: <MrWunderWaffle> -44 71 -16 nether
+[02:50:04] [Server thread/INFO]: <MrWunderWaffle> nether origin
+
+[02:50:24] [Server thread/INFO]: <MrWunderWaffle> overworld main nether portal
+[02:50:41] [Server thread/INFO]: <MrWunderWaffle> -311 64 -101
